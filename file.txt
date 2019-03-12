@@ -1,4 +1,2 @@
 tets
-tets111111
-tets2222222
 tets3333333
